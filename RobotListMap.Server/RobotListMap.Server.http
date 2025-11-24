@@ -1,0 +1,6 @@
+@RobotListMap.Server_HostAddress = http://localhost:5057
+
+GET {{RobotListMap.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
